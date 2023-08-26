@@ -19,16 +19,16 @@ avatar: https://avatars.githubusercontent.com/u/116574446?s=200&v=4
 footer-links:
   dribbble:
   email: info@pstid.online
-  facebook: https://www.facebook.com/pstid
+  facebook: pstid
   flickr:
-  github: https://github.com/pstid
-  instagram: https://www.instagram.com/pstidcom
-  linkedin: https://www.linkedin.com/in/pstid
+  github: pstid
+  instagram: pstidcom
+  linkedin: pstid
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: https://twitter.com/pstid
+  twitter: pstid
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: https://www.youtube.com/@PesatTeknologiIndonesia
+  youtube: @PesatTeknologiIndonesia
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
