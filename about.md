@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: Tentang Kami
 permalink: /about/
 ---
 
-Some information about you!
+Pesat Teknologi Indonesia adalah software house yang mengembangkan kustom piranti lunak dan proyek-proyek terkait dunia Informasi dan Teknologi.
 
-### More Information
+### Informasi Lebih Lanjut
 
-A place to include any other types of information that you'd like to include about yourself.
+Silahkan ikuti media sosial kami atau hubungi melalui kontak dibawah ini.
 
-### Contact me
+### Hubungi Kami
 
-[email@domain.com](mailto:email@domain.com)
+[Info](mailto:info@pstid.online)
+
+[Sales](mailto:sales@pstid.online)
